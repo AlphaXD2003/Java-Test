@@ -10,6 +10,14 @@ class B extends A{
     // }
 }
 
+final class C {
+
+}
+
+// class D extends C{
+
+// }
+
  class finalClass {
     public static void main(String[] args) {
         final int x = 20;
